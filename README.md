@@ -23,7 +23,7 @@
 ## 🎥 Watch It In Action
 [![Watch the Demo](https://img.shields.io/badge/Watch-Demo-ff69b4?style=for-the-badge)](https://github.com/waris-ali-git/FoodieBuster-kotlin/blob/master/Foodie-Buster.mp4)
 
-_(Click the badge to watch the full walkthrough!)_
+_(Click on View Rar to get demo access)_
 
 ---
 
