@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="8dp"
+    android:layout_marginEnd="8dp">
+
+    <androidx.cardview.widget.CardView
+        android:layout_width="210dp"
+        android:layout_height="190dp"
+        android:contentDescription="@string/recipe_card"
+        app:cardCornerRadius="25dp"
+        app:cardElevation="4dp">
+
+        <ImageView
+            android:id="@+id/popular_img"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:contentDescription="@string/recipe_image"
+            android:foreground="?android:attr/selectableItemBackground"
+            android:scaleType="centerCrop"
+            android:src="@drawable/pizza_sample" />
+
+        <ImageView
+            android:id="@+id/img_gradient"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_gravity="bottom"
+            android:contentDescription="@string/gradient_overlay"
+            android:src="@drawable/image_btm_overlay" />
+
+        <TextView
+            android:id="@+id/popular_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:fontFamily="@font/bree_serif"
+            android:paddingStart="15dp"
+            android:paddingEnd="15dp"
+            android:paddingBottom="20dp"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            tools:text="Recipe Title" />
+
+        <TextView
+            android:id="@+id/popular_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="bottom"
+            android:fontFamily="@font/didact_gothic"
+            android:paddingStart="25dp"
+            android:paddingEnd="15dp"
+            android:paddingBottom="5dp"
+            android:textColor="@color/white"
+            android:textSize="13sp"
+            tools:text="⏲ 15 min" />
+    </androidx.cardview.widget.CardView>
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Foodie Buster</string>
+    <string name="popular_recipes_list">List of popular recipes</string>
+    <string name="recipe_card">Recipe card</string>
+    <string name="recipe_image">Recipe image</string>
+    <string name="gradient_overlay">Gradient overlay</string>
+</resources>

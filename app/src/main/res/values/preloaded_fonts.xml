@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/advent_pro_light</item>
+        <item>@font/alata</item>
+        <item>@font/bellota</item>
+        <item>@font/bellota_light</item>
+        <item>@font/bree_serif</item>
+        <item>@font/comfortaa_light</item>
+        <item>@font/didact_gothic</item>
+        <item>@font/golos_text_medium</item>
+    </array>
+</resources>

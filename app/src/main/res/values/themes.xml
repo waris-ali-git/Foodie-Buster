@@ -1,0 +1,14 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.FoodieBuster" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">@color/purple_500</item>
+    </style>
+
+    <style name="Theme.FoodieBuster" parent="Base.Theme.FoodieBuster" />
+
+    <style name="Theme.FoodieBuster.NoActionBar" parent="Theme.FoodieBuster">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+</resources>
