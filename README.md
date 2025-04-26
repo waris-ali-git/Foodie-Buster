@@ -6,8 +6,8 @@
 
 ---
 
-> 🍽️ **"Search it. Cook it. Love it."**  
-> ✨ Crafted with passion, flavored with Kotlin.
+>  **"Search it. Cook it. Love it."**  
+>  Crafted with passion, flavored with Kotlin.
 
 ---
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 🎥 Watch It In Action
+##  Watch It In Action
 [![Watch the Demo](https://img.shields.io/badge/Watch-Demo-ff69b4?style=for-the-badge)](https://github.com/waris-ali-git/FoodieBuster-kotlin/blob/master/Foodie-Buster.mp4)
 
 _(Click on View raw to get demo access)_
@@ -30,10 +30,10 @@ _(Click on View raw to get demo access)_
 ##  Tech Stack
 | Technology | Purpose |
 |------------|---------|
-| 💻 Kotlin | Full App Development |
-| 🗄️ SQLite | Built-in Local Database |
-| 🎚️ Android Sliding Panel | Smooth UX Navigation |
-| 🍴 Custom UI | For a mouth-watering experience |
+|  Kotlin | Full App Development |
+|  SQLite | Built-in Local Database |
+|  Android Sliding Panel | Smooth UX Navigation |
+|  Custom UI | For a mouth-watering experience |
 
 ---
 
@@ -60,7 +60,7 @@ _(Click on View raw to get demo access)_
 
 ---
 
-## ✨ Final Note
+##  Final Note
 > *"Good code and good food — both need the right ingredients!"* 
 
 **Foodie Buster** brings them together beautifully.  
@@ -68,6 +68,6 @@ Give it a ⭐ if you're ready to bust some cravings!
 
 ---
 
-# 🚀 *Cook More. Code Better. Foodie Buster.* 🍽️
+#  *Cook More. Code Better. Foodie Buster.* 
 
 ---
