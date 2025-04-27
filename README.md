@@ -1,4 +1,4 @@
-# 🍔 Foodie Buster — Your Recipe Adventure Awaits! 🍰🍹
+# 🍔 Foodie Buster — Your Recipe Adventure Awaits! 🍹
 
 ![Made with Kotlin](https://img.shields.io/badge/Made%20With-Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Built-in-Database](https://img.shields.io/badge/Built--in-Database-success?style=for-the-badge&logo=sqlite&logoColor=white)
